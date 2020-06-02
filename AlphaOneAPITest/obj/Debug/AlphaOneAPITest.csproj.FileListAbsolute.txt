@@ -1,0 +1,14 @@
+C:\Users\Camilo\source\repos\AlphaOneAPITest\AlphaOneAPITest\obj\Debug\AlphaOneAPITest.csprojAssemblyReference.cache
+C:\Users\Camilo\source\repos\AlphaOneAPITest\AlphaOneAPITest\obj\Debug\AlphaOneAPITest.csproj.CoreCompileInputs.cache
+C:\Users\Camilo\source\repos\AlphaOneAPITest\AlphaOneAPITest\bin\Debug\AlphaOneAPITest.exe.config
+C:\Users\Camilo\source\repos\AlphaOneAPITest\AlphaOneAPITest\bin\Debug\AlphaOneAPITest.exe
+C:\Users\Camilo\source\repos\AlphaOneAPITest\AlphaOneAPITest\bin\Debug\AlphaOneAPITest.pdb
+C:\Users\Camilo\source\repos\AlphaOneAPITest\AlphaOneAPITest\obj\Debug\AlphaOneAPITest.exe
+C:\Users\Camilo\source\repos\AlphaOneAPITest\AlphaOneAPITest\obj\Debug\AlphaOneAPITest.pdb
+C:\Users\Camilo\source\repos\AlphaOneAPITest\AlphaOneAPITest\bin\Debug\Flurl.dll
+C:\Users\Camilo\source\repos\AlphaOneAPITest\AlphaOneAPITest\bin\Debug\Flurl.Http.dll
+C:\Users\Camilo\source\repos\AlphaOneAPITest\AlphaOneAPITest\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Camilo\source\repos\AlphaOneAPITest\AlphaOneAPITest\bin\Debug\Flurl.xml
+C:\Users\Camilo\source\repos\AlphaOneAPITest\AlphaOneAPITest\bin\Debug\Flurl.Http.xml
+C:\Users\Camilo\source\repos\AlphaOneAPITest\AlphaOneAPITest\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Camilo\source\repos\AlphaOneAPITest\AlphaOneAPITest\obj\Debug\AlphaOneAPITest.csproj.CopyComplete
