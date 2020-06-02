@@ -11,9 +11,22 @@ namespace AlphaOneAPITest
 {
     class Program
     {
+        // replace with correct council api domain
         private static String API_BASE_URL = "https://council-api.abcs.co.nz";
+        // replace with correct api access username
         private static String API_USERNAME = "{SOME_USERNAME}";
+        // replace with correct api access password/key
         private static String API_PASSWORD = "{SOME_SECRET_KEY}";
+
+        static void Main(string[] args)
+        {
+            // method 1
+            Main1(args);
+            // method 2
+            Main2(args);
+            // method 3
+            Main3(args);
+        }
 
         // METHOD 1 ================================================================================================================ [start]
         static async Task Main1(string[] args)
@@ -60,7 +73,7 @@ namespace AlphaOneAPITest
         // METHOD 2 ================================================================================================================ [end]
 
         // METHOD 3 ================================================================================================================ [start]
-        static void Main(string[] args)
+        static void Main3(string[] args)
         {
             String url = (API_BASE_URL + "/v1/authenticate");
             WebRequest request = WebRequest.Create(url);
